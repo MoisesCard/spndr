@@ -1,0 +1,15 @@
+.nav{
+    display:flex;
+    border: .2rem solid red;
+    align-items: center;
+    
+}
+
+.title {
+    font-size: 5rem;
+}
+
+.settings{
+    
+}
+
